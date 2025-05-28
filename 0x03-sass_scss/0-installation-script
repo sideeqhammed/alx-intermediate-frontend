@@ -1,0 +1,7 @@
+The steps I took to install SASS:
+
+1. I installed node.js, it is required to run sass
+Go to "https://nodejs.org/" and install the LTS version for your OS.
+
+2. After installing Node.js, I installed SASS
+To install SASS open your terminal or command prompt and run: "npm install -g sass"
